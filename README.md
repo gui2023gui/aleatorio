@@ -7,7 +7,11 @@
     class="principal">
     .principal {
     background-image: url("img/Background.png");
+}.
+    container {
+    height: 100vh;
 }
+
     <section class="container principal">
         <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
         <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua
