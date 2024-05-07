@@ -5,8 +5,12 @@
     <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua"
       <section>
     class="principal">
+    .principal {
+    background-image: url("img/Background.png");
+}
+    <section class="container principal">
         <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
-        <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua">
+        <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua
 </section>
   </body>
 </header>
