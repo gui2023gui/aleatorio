@@ -1,7 +1,7 @@
 # aleatorio
 <header>
   <body>
-      <h1>Com o Combo+, voçe t5em descostos na assinatura do alura.</h1>
+      <h1>Com o Combo+, voçe tem descostos na assinatura do alura.</h1>
     <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua"
       <section>
     class="principal">
